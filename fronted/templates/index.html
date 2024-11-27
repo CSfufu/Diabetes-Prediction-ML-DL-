@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>智能糖尿病风险评估</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+  <div class="login-container">
+    <h1>智能糖尿病风险评估</h1>
+    <p>通过训练出的(SOTA)AI模型预测您患糖尿病的风险</p>
+
+    <form action="{{ url_for('predict') }}" method="post">
+      <div class="input-group">
+        <div class="input-item">
+          <label for="Pregnancies">怀孕次数</label>
+          <input type="number" id="Pregnancies" name="Pregnancies" placeholder="请输入数字" required>
+        </div>
+        <div class="input-item">
+          <label for="GlucoseLevel">血糖水平 (mg/dL)</label>
+          <input type="any" id="GlucoseLevel" name="Glucose Level" placeholder="70-180" required>
+        </div>
+        <div class="input-item">
+          <label for="BloodPressure">血压 (mmHg)</label>
+          <input type="any" id="BloodPressure" name="Blood Pressure" placeholder="90-140" required>
+        </div>
+        <div class="input-item">
+          <label for="SkinThickness">皮肤厚度 (mm)</label>
+          <input type="any" id="SkinThickness" name="Skin Thickness" placeholder="10-50" required>
+        </div>
+        <div class="input-item">
+          <label for="Insulin">胰岛素水平 (mu U/ml)</label>
+          <input type="any" id="Insulin" name="Insulin" placeholder="0-846" required>
+        </div>
+        <div class="input-item">
+          <label for="BMI">BMI指数</label>
+          <input type="any" id="BMI" name="BMI" placeholder="18.5-35" required>
+        </div>
+        <div class="input-item">
+          <label for="DiabetesPedigreeFunction">糖尿病家族史指数</label>
+          <input type="any" id="DiabetesPedigreeFunction" name="Diabetes Pedigree Function" placeholder="0.0-2.5" required>
+        </div>
+        <div class="input-item">
+          <label for="Age">年龄</label>
+          <input type="number" id="Age" name="Age" placeholder="21-81" required>
+        </div>
+      </div>
+      <button type="submit" class="btn">开始评估</button>
+    </form>
+    <div class="result">
+      <label for="prediction">预测结果</label>
+      <textarea id="prediction" readonly>{{ prediction_text }}</textarea>
+    </div>
+    
+  </.div>
+
+</body>
+</html>

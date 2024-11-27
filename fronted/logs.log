@@ -1,0 +1,1484 @@
+2024-11-26 10:41:14,504:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:41:17,133:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:43:04,684:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:43:09,582:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:43:15,602:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:43:20,543:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:43:29,536:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:43:34,450:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:43:39,380:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:45:02,304:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:45:04,871:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:45:15,836:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,837:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,838:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,838:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,839:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,840:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,841:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,842:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,843:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,844:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,845:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,882:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,916:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,948:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,971:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,995:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,996:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,997:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:15,999:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:16,000:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,877:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,878:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,878:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,879:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,880:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,881:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,882:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,883:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,884:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,885:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,886:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,923:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,956:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:48,989:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:49,023:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:49,057:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:49,058:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:49,059:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:49,060:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:45:49,061:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:09,322:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:46:14,442:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:46:19,393:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:46:31,461:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:46:39,504:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:46:45,465:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:46:56,542:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,543:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,543:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,544:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,545:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,546:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,547:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,548:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,549:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,550:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,551:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,589:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,622:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,656:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,681:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,714:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,715:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,715:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,716:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:46:56,717:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:29,935:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:29,936:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:29,937:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:29,937:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:29,938:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:29,939:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:29,940:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:29,941:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:29,942:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:29,943:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:29,945:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:29,970:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:29,996:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:30,020:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:30,042:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:30,064:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:30,065:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:30,067:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:30,068:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:30,070:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,075:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,076:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,077:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,078:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,078:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,079:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,080:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,081:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,082:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,083:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,084:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,110:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,132:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,154:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,176:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,197:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,199:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,200:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,201:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:47:43,202:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 10:51:40,090:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 10:51:42,669:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 11:03:46,329:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 11:03:48,869:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 11:05:56,843:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,844:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,845:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,846:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,847:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,847:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,849:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,850:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,851:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,852:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,853:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,892:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,925:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,958:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:56,990:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:57,012:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:57,013:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:57,014:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:57,015:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:05:57,016:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,404:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,404:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,405:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,406:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,407:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,408:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,409:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,410:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,411:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,412:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,413:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,438:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,460:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,482:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,504:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,526:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,527:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,528:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,528:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:11,529:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,443:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,444:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,445:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,445:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,446:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,447:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,448:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,449:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,450:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,451:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,452:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,478:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,501:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,523:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,546:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,569:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,570:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,571:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,572:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:06:59,573:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,578:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,579:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,580:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,580:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,581:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,582:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,583:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,584:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,585:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,586:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,587:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,612:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,636:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,659:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,681:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,704:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,705:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,706:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,707:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:14,708:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,796:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,796:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,797:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,798:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,799:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,800:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,801:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,802:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,803:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,804:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,805:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,830:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,853:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,876:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,898:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,921:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,922:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,924:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,926:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:22,927:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,049:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,050:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,051:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,052:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,053:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,053:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,055:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,056:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,057:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,058:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,059:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,085:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,108:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,130:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,152:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,174:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,175:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,177:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,178:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:08:32,178:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,729:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,730:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,731:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,732:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,733:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,733:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,735:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,736:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,737:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,738:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,739:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,764:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,786:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,808:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,830:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,851:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,853:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,854:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,855:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:49,856:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,253:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,254:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,255:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,256:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,257:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,258:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,259:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,260:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,261:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,262:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,263:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,289:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,312:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,335:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,357:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,382:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,383:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,384:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,385:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:09:55,386:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:01,889:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 11:10:04,463:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 11:10:05,796:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,797:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,798:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,799:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,800:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,800:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,801:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,802:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,803:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,804:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,806:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,833:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,855:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,877:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,915:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,937:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,938:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,940:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,941:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:05,942:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:48,946:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:48,946:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:48,947:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:48,948:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:48,949:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:48,949:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:48,951:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:48,952:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:48,953:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:48,954:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:48,955:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:48,994:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:49,028:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:49,062:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:49,095:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:49,128:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:49,129:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:49,130:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:49,131:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:10:49,132:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:36,451:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 11:13:39,004:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 11:13:54,512:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,513:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,514:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,515:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,516:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,517:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,518:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,519:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,520:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,521:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,523:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,560:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,594:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,629:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,661:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,694:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,695:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,696:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,697:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 11:13:54,698:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:19:51,891:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 20:19:54,455:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 20:21:38,290:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,291:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,292:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,292:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,293:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,294:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,295:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,296:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,297:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,298:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,300:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,338:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,371:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,405:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,427:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,460:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,461:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,463:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,464:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:21:38,465:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GaussianNB was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:26,923:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
+2024-11-26 20:23:43,776:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:43,812:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:43,848:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:43,881:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:43,916:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:43,949:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:43,950:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:43,951:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:43,952:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:43,954:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:43,955:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:43,988:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:44,011:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:44,033:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:44,055:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:44,077:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:44,078:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:44,079:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:44,080:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:23:44,081:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,708:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,745:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,767:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,789:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,821:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,854:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,855:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,856:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,857:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,858:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,859:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,882:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,903:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,924:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,945:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,967:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,968:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,970:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,971:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:24:02,972:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,615:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,652:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,687:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,722:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,756:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,789:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,790:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,791:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,793:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,794:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,795:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,819:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,843:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,866:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,888:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,911:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,912:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,912:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,913:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:25:35,914:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:02,925:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:02,951:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:02,973:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:02,995:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,017:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but ExtraTreesClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,039:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,040:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,042:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,043:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,044:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,046:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,071:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,094:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,116:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,138:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,159:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,160:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,160:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,161:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-11-26 20:26:03,162:WARNING:/home1/gmh/anaconda3/envs/diabets/lib/python3.9/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+

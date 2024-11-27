@@ -1,0 +1,136 @@
+/* 基础样式重置 */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+  }
+  
+  body {
+	font-family: 'Roboto', sans-serif;
+	background: linear-gradient(135deg, #f4f6fa, #e6efff);
+	color: #333;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	margin: 0;
+	text-align: center;
+  }
+  
+  .login-container {
+	background: #ffffff;
+	border-radius: 12px;
+	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+	padding: 40px;
+	width: 100%;
+	max-width: 500px;
+  }
+  
+  h1 {
+	font-size: 24px;
+	color: #222;
+	margin-bottom: 8px;
+  }
+  
+  p {
+	font-size: 14px;
+	color: #666;
+	margin-bottom: 20px;
+  }
+  
+  .input-group {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 15px;
+  }
+  
+  .input-item {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+  }
+  
+  label {
+	font-size: 14px;
+	color: #555;
+	text-align: left;
+  }
+  
+  input {
+	padding: 10px 12px;
+	font-size: 14px;
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	outline: none;
+	transition: all 0.3s ease;
+  }
+  
+  input::placeholder {
+	color: #aaa;
+  }
+  
+  input:focus {
+	border-color: #4A90E2;
+	box-shadow: 0 0 5px rgba(74, 144, 226, 0.4);
+  }
+  
+  .btn {
+	width: 100%;
+	padding: 12px 0;
+	background: linear-gradient(90deg, #6A9CF2, #836AF9);
+	color: #fff;
+	border: none;
+	border-radius: 8px;
+	font-size: 16px;
+	cursor: pointer;
+	transition: background 0.3s ease;
+	margin-top: 20px;
+  }
+  
+  .btn:hover {
+	background: linear-gradient(90deg, #5A8CE2, #7269F9);
+  }
+  
+  @media (max-width: 768px) {
+	.input-group {
+	  grid-template-columns: 1fr;
+	}
+  }
+  
+  .result {
+	margin-top: 20px;
+	text-align: center; /* 居中对齐 */
+  }
+  
+  .result label {
+	font-size: 16px; /* 标签字体稍微大一点 */
+	color: #555;
+	margin-bottom: 10px;
+	display: block;
+	text-align: center; /* 标签文字居中 */
+  }
+  
+  .result textarea {
+	width: 100%;
+	max-width: 480px; /* 限制宽度 */
+	height: 120px; /* 调整高度让文本框更醒目 */
+	padding: 15px;
+	font-size: 20px; /* 增大字体 */
+	font-weight: bold; /* 让字体加粗 */
+	color: #333;
+	background-color: #f9f9f9;
+	border: 1px solid #ddd;
+	border-radius: 12px;
+	resize: none; /* 禁用调整大小 */
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+	text-align: center; /* 文本内容居中对齐 */
+	line-height: 1.5; /* 调整行高，让文字更美观 */
+	transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .result textarea:focus {
+	border-color: #4A90E2;
+	box-shadow: 0 0 5px rgba(74, 144, 226, 0.4);
+	outline: none;
+  }
+  
